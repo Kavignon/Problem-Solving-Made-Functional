@@ -54,6 +54,15 @@ The material will come from resouces such as:
 * [Hacker Rank](https://www.hackerrank.com/) 
 * [CodeWars](https://www.codewars.com) 
 
+Recommended resources to improve?
+=============
+
+* [Introduction to Algorithms](https://www.amazon.ca/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844)
+* [The Algorithm Design Manual](https://www.amazon.ca/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/ref=sr_1_1?keywords=the+algorithm+design+manual&qid=1575915958&sr=8-1)
+* [Composing Software](https://leanpub.com/composingsoftware)
+* [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
+* [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+
 
 How can I contribute to the repo?
 ==============
