@@ -41,6 +41,14 @@ Functional programming isn't something that's new; it's a pretty old concept tha
 * It gives you a new tool to work with and a new perspective on **problem solving**
 * .NET Core is a great platform for development and there's a lot of active development in .NET for entreprise projects
 
+For the curious, here are a few posts on why F# is a great tool to have in your toolbox.
+
+* [Why F# - Code Magazine](https://www.codemag.com/article/1605061)
+* [6 Reasons Why F# Might Be The Coolest Language You've Never Heard Of](https://mislavjavor.github.io/2017-05-30/6-Reasons-Why-F-Might-Be-The-Coolest-Language-You%27ve-Never-Heard-Of/)
+* [Why F# is the best enterprise language](https://fsharpforfunandprofit.com/posts/fsharp-is-the-best-enterprise-language/)
+* [Why use F# when your team uses C#](https://kevinavignon.com/2019/09/23/why-should-you-use-f-when-your-team-uses-c/)
+
+
 Where will the problems to solve come from?
 ==============
 There are a lot of free material online, and this repository will try to centralize some of them. To make sure it doesn't get bigger than it needs to be, we'll keep it lean whenever it's possible. We don't need multiple instances of the same kind of problems that are solved with an hashma if they are **similar**.
@@ -52,7 +60,8 @@ The material will come from resouces such as:
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 * [The Algorithm design manual](http://www.algorist.com/)
 * [Hacker Rank](https://www.hackerrank.com/) 
-* [CodeWars](https://www.codewars.com) 
+* [CodeWars](https://www.codewars.com)
+* [Project Euler](https://projecteuler.net/archives)
 
 Recommended resources to improve?
 =============
