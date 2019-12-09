@@ -48,6 +48,8 @@ There are a lot of free material online, and this repository will try to central
 The material will come from resouces such as:
 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
+* [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 * [The Algorithm design manual](http://www.algorist.com/)
 * [Hacker Rank](https://www.hackerrank.com/) 
 * [CodeWars](https://www.codewars.com) 
