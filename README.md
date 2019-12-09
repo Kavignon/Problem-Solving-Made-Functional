@@ -33,7 +33,7 @@ A gentle guide for software developers in problem solving, functional programmin
 Why functional programming and F# for problem solving? 
 ============
 
-Functional programming isn't something that's new; it's a pretty old concept that's becoming more and more present in the industry nowadays. There are many reasons that explain why that is such as
+Functional programming isn't something that's new; it's a pretty old concept that's becoming more and more present in the industry nowadays. There are many reasons that explain why that is such as:
 
 * Provides great productivity - produces shorter programs in a quicker time
 * You have complete power over your mutation (immutability)
@@ -45,7 +45,7 @@ Where will the problems to solve come from?
 ==============
 There are a lot of free material online, and this repository will try to centralize some of them. To make sure it doesn't get bigger than it needs to be, we'll keep it lean whenever it's possible. We don't need multiple instances of the same kind of problems that are solved with an hashma if they are **similar**.
 
-The material will come from resouces such 
+The material will come from resouces such as:
 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [The Algorithm design manual](http://www.algorist.com/)
