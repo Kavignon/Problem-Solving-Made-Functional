@@ -11,6 +11,7 @@ Problems solving is a **must** skill to have for a software developer, we can't 
 * Algorithm design
 * System design
 * Picking an implementation design
+* Choosing the right data structure for your problem space
 * Getting rid of your pesky bug
 
 (You get the idea, there are many different kind of problems in our day-to-day work).
