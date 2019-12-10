@@ -14,9 +14,9 @@ Problems solving is a **must** skill to have for a software developer, we can't 
 * Choosing the right data structure for your problem space
 * Getting rid of your pesky bug
 
-(You get the idea, there are many different kind of problems in our day-to-day work).
+(You get the idea, there are many different kinds of problems in our day-to-day work).
 
-This repository should be seen as a dojo to help sharpen your problem solving skills to make you an even better developer than you are currently. Work skills are more useful when they actually help your career. Drawing, sports and music are all more fun when you’re good at them. Same thing goes for software development: putting some time aside for you to get better will pay dividends in the long run. You'll be able to use the Jupyter Notebooks for your self and make them grow with time if you feel the need for it.
+This repository should be seen as a dojo to help sharpen your problem solving skills to make you an even better developer than you are currently. Work skills are more useful when they actually help your career. Drawing, sports and music are all more fun when you’re good at them. Same thing goes for software development: putting some time aside for you to get better will pay dividends in the long run. You'll be able to use the Jupyter Notebooks for yourself and make them grow with time if you feel the need for it.
 
 
 What are the area(s) of focus of this repository?
@@ -75,7 +75,7 @@ Recommended resources to improve?
 
 How can I contribute to the repo?
 ==============
-If you find there a grammar mistake, an implementation problem (poor design decision, something unclear, something incorrect in the implementation) or simply something new that you feel the repository is missing, do not hesitate to clone the repository, create an issue and open a PR. I accept every contribution! There are no such thing as a too small contribution. Every single bit matters :)
+If you find a grammar mistake, an implementation problem (poor design decision, something unclear, something incorrect in the implementation) or simply something new that you feel the repository is missing, do not hesitate to clone the repository, create an issue and open a PR. I accept every contribution! There is no such thing as a too small contribution. Every single bit matters :)
 
 Are there any similar resources?
 ==============
